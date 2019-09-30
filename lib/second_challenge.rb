@@ -1,6 +1,6 @@
 def second_challenge
   #
-  pic_tragedy = {
+  epic_tragedy = {
    :montague => {
       :patriarch => {},
       :matriarch => {},
