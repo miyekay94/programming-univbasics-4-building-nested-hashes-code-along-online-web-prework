@@ -5,6 +5,5 @@ def first_challenge do
   :montague => {},
   :capulet => {}
 }
-   
   end
    
