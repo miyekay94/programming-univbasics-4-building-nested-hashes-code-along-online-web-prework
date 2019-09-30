@@ -6,10 +6,5 @@ def first_challenge do
   :capulet => {}
 }
    
-    expect(first_challenge.keys).to eq([:montague, :capulet])
-    
-    expect(first_challenge.values).to eq([{}, {}])
-  
- 
   end
    
